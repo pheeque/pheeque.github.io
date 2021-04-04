@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Introduction"
+date:   2021-04-04 11:26:00 +0100
+categories: 
+---
+I find that putting things down in writing forces me to really think about what I am doing. So in a way, my keeping this blog is not so much a desire to share what I have learnt with others but about having a deeper knowledge about the tools I use everyday.
+
+I do also want to be held accountable for my views. It’s so often that I jump for one idea to the next but with a public documentation of my roadmap, I might be able to stick to one path for as long as it remains viable.
