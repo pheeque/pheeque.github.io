@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-My name is Rafik Abdulwahab, software engineer and director of a software consultancy you can find here - [Pheeque Company](https://pheeque.com)
+My name is Rafik Abdulwahab, software engineer and director of [Pheeque Company](https://pheeque.com), a software consultancy.
 
 I help people and organisations convert their ideas into technological solutions.
 
