@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Understanding your worth"
+date:   2021-05-07 17:50 +0100
+categories: 
+---
+
+> “Man I cannot believe Apple makes that much money.”
+> * Takes off $550 headphones
+> * Looks down at $1200 phone
+> * Pushes back from $1500 computer
+> * Checks time on $500 watch
+> 
+> How do they do it?
+-- [Austen](https://twitter.com/Austen/status/1390495162732662785)
+
+There is value in being high-priced. There is always going to be a market as long as you deliver value.
+
+I read _Fanatical Prospecting_ by Jeb Blount this week which I blame for how the week went. His thesis is to sell to as many people as possible and as often as possible. I might have been the wrong audience for this book. He is very likely talking to sellers of one off products and not service providers like myself.
+
+So, I spent the whole of the week, well wasted the whole week, selling to the wrong market in my bid to fanatically prospect. The kind of market that considers the price first and not the value delivered. It turns out that convincing people to do things the right way the first time around is just about as easy as converting people to another religion. 
+
+So I have changed tactics. My new strategy is to focus more on showing than telling. What better way to show that you can build than by building as many times as possible. So in the coming weeks, I will be adding a projects and labs section to my website to showcase both client work and the experimental projects I will be building so many of.
+
+This weeks episode of course took away time I planned to spend on open source. So that will have to wait until next week to resume. I did try to work on some projects but I find it harder to contribute to a code base I haven’t spent a long time on. Besides, I am pretty sure the maintainers would rather have pull requests opened by people who have to use the libraries daily.
