@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Vim and Go"
+date:   2021-05-14 18:50 +0100
+categories: 
+---
+
+I might have overcorrected a bit from doing zero open source last week to doing mostly that this week. The rest of the week was spent in figma prototyping the frontend for a client project.
+
+I built a bot in Go to send me an email of new jobs posted to hackernews every hour. I have it hosted on my server triggered by a crontab entry monitored with [healthchecks](http://healthchecks.io){:target="_blank"}. 
+
+I open sourced the code which you can check out [here](https://github.com/pheeque/hackernews-jobs){:target="_blank"}. I contemplated building it in rust which i am more familiar with but giving Go's fast compile time and very rich ecosystem, I was able to bring a bunch of helpful packages together to build what I needed. I got most of the functionality done in a day which I can't say the same for rust.
+
+I dabbled in vim again for a bit this week. This is a phase I go through yearly at this point. Every time I read somewhere that vim is great for developer productivity, I chuck VS Code to the side and I explore vim again. And every time, I come to the realisation that my laptop's track pad and command+p on VS Code are probably what is saving me from developing carpal tunnel syndrome and I go back to VS Code. Glad that phase was quick this time around.
+
+I am writing it in my blog this time so I hope that helps me remember before I waste another full day configuring vimrc again. But its cool that I can use vim though. I no longer use nano which I started my sysadmin career with and the default vim installation on my ubuntu servers make editing server configuration files a breeze. I learnt to touch type so I could take full advantage of vim which according to [keybr](http://keybr.com){:target="_blank"} (which is a great resource - I learnt to touch type on this website) I average between 60-70 WPM. So that has been a huge productivity boost that I cannot deny.
