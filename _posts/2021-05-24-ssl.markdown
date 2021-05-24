@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SSL"
+date:   2021-05-24 10:56 +0100
+categories: 
+---
+
+I don't remember Let's encrypt ever being easy to configure for a bunch of web domains. I have always taken advantage of a deployment service that handled that for all my web projects. The problem is that the service is tied to only a single language so I cannot use it for other languages. With the recent rebrand of my consultancy where the focus is not on the technology but on how my firm can help achieve the goals of my clients, I needed a simple deployment mechanism for the different technologies I would be making use of.
+
+While I am mostly a one-man show, I use the collective 'we' when referring to my firm because I believe that using that helps assuage any fears a prospect might have. Moreover, it isn't far from the truth since I do bring in other people to help out on a project with a tighter deadline that I might not be able to handle alone.
+
+Back to the wonderfully free Let's encrypt service. It turns out running `certbot certonly --nginx` and manually pointing to the  each configured domain in nginx was all that was needed for a setting up a fully secured website with SSL.
+
+This week was about putting out of fires for clients. I however have found a new sales channel that is starting to look promising and will focus on that over the next few weeks to see just how much fruit it bears for me and my agency.
