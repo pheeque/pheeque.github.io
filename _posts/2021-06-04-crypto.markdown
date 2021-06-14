@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Crypto"
+date:   2021-06-14 13:20 +0100
+categories: 
+---
+
+I officially got into crypto development this week. I have to build a wallet for a client and I have a pending project for another client that is crypto based. 
+
+So I spent the week getting immersed in block chains and Ethereum development. From what I've been able to gather, the Ethereum ecosystem offers more on top of the regular blockchain capabilities of the other coins. It has such a long term outlook that I cannot help but be inspired. The proof of stake over proof of work in eth2 is something I think would make ethereum supplant bitcoin’s current dominance.
